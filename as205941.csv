@@ -1,0 +1,8 @@
+prefix,iso_country_code,iso_region_code,city,postal_code
+2a10:fa82:f900::/40,IT,IT-09,Milano,20121
+2a10:fa82:fa00::/40,RO,RO-B,Bucharest,010041
+2a10:fa82:fa00:ffff:0000:0000:0000:0000/112,RO,RO-CJ,Turda,401007
+2a10:fa82:fb00::/40,DE,DE-HE,Frankfurt,60311
+2a10:fa82:fc00::/40,NL,NL-NH,Amsterdam,1012JS
+2a0a:6044:a190::/44,NL,NL-NH,Amsterdam,1012JS
+2a10:fa82:fe00::/40,SE,SE-AB,Stockholm,11130
