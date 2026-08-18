@@ -12,3 +12,5 @@ prefix,iso_country_code,iso_region_code,city,postal_code
 44.30.106.0/24,GB,GB-ENG,London,EC1A
 2a10:fa82:f500::/40,GB,GB-ENG,London,EC1A
 217.60.96.0/24,NL,NL-NH,Amsterdam,1012JS
+201.3.122.0/24,NL,NL-NH,Amsterdam,1012JS
+201.3.235.0/24,DE,DE-HE,Frankfurt,60311
