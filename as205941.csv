@@ -20,3 +20,4 @@ prefix,iso_country_code,iso_region_code,city,postal_code
 2a13:c8c4:2100::/44,CZ,CZ-10,Praha,10800
 2a13:c8c4:21e0::/44,CZ,CZ-10,Praha,10800
 2a13:c8c4:2200::/44,DE,DE-HE,Frankfurt,60311
+142.249.174.60/30,PS,PS-GZA,Gaza,
